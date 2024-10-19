@@ -17,7 +17,7 @@ const card_film = () => {
       return (
         <div
           key={movie.id}
-          className="transition-transform duration-300 transform bg-yellow- hover:scale-105"
+          className="transition-transform duration-300 transform hover:scale-105"
         >
           {/* IMage Film */}
           <div
